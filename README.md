@@ -1,7 +1,3 @@
-Berikut adalah README profil GitHub untuk Anda:
-
----
-
 # Halo, Saya Zidan Indra Nugraha! 👋
 
 Saya adalah mahasiswa semester 5 di Universitas Negeri Medan dengan minat khusus di bidang **Front-End Development**, **Desain UI**, dan **Machine Learning**. Saya memiliki kemampuan dalam beberapa bahasa pemrograman seperti **Python**, **C++**, **HTML**, dan **Java**. 
@@ -20,5 +16,3 @@ Saya adalah mahasiswa semester 5 di Universitas Negeri Medan dengan minat khusus
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ZidanIndra&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
